@@ -1,4 +1,4 @@
- **PROJECT NAME: Restaurant Owner App (Project 0)**
+# PROJECT NAME: Restaurant Owner App (Project 0)
 Project 0 - A console application about restaurant owners
 DUE DATE: 8/11/2021
 
